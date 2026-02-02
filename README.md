@@ -63,3 +63,4 @@ This is a complete Library Management System built with HTML, CSS, JavaScript, a
 
 - The backend is a minimal Node.js Express server used *strictly* to safely interact with the SQLite database file (`svuLibrary.db`), as browsers cannot write to files directly.
 - All application logic (Flow, Validation, UI) is handled in the frontend JavaScript.
+
